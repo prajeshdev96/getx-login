@@ -1,0 +1,9 @@
+export 'package:getx_login/modules/splash/spalsh_screen.dart';
+export 'package:getx_login/modules/home/home_screen.dart';
+export 'package:getx_login/modules/intro/intro_screen.dart';
+export 'package:getx_login/modules/login/login_screen.dart';
+export 'package:getx_login/modules/detail_page/detail_screen.dart';
+export 'package:getx_login/modules/edit_password/edit_password_screen.dart';
+export 'package:getx_login/modules/edit_user/edit_user_screen.dart';
+export 'package:getx_login/modules/login/login_screen.dart';
+export 'package:getx_login/modules/signup_screen/signup_screen.dart';
